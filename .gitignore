@@ -31,3 +31,16 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.sdf
+*.suo
+*.vcxproj.user
+*.txt
+*.db
+*.opendb
+*.opensdf
+*.dat
+Debug/
+Release/
+ShootingStar2/Debug/
+ShootingStar2/Release/
